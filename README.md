@@ -1,12 +1,15 @@
-<h1 align="center">👋 Hi, I’m @950288</h1>
+# Cosmic Citizen 🚀
+
+### I'm a student at 🏫 Zhejiang University of Technology, diving deep into the vast ocean of Bioinformatics, where the DNA of life meets the digital realm. 🧬
+
+Passionate about:
+
+- 🤖 AI: Crafting the minds of the future, one algorithm at a time.
+- 🧠 Deep Learning: Unveiling hidden patterns and unlocking mysteries, layer by layer.
+- 🥼 Protein Design: Programmatically sculpting life's architecture with AI, designing proteins to heal, transform, and innovate.
+- 🌌 Interdisciplinary Tech: Blending fields to break boundaries and innovate for the cosmos.
+
+
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=950288&" alt="950288" /></p>
-</div>
-<div align="center">
-  
-![950288's GitHub stats](https://github-readme-stats.vercel.app/api?username=950288&show_icons=true&theme=tokyonight)
-</div>
-<div align="center">
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=950288&layout=compact)
 </div>
