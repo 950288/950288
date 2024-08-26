@@ -1,6 +1,6 @@
 # Cosmic Citizen - 95028 🚀
 
-### I'm a student at 🏫 Zhejiang University of Technology, diving deep into the vast ocean of Bioinformatics, where the DNA of life meets the digital realm. 🧬
+### I am an undergraduate student at 🏫 Zhejiang University of Technology, deeply immersed in the fascinating intersection where AI meets Life Sciences, driving the frontiers of biomedical research forward. 🧬🤖
 
 Passionate about:
 
