@@ -1,6 +1,6 @@
 # Cosmic Citizen - 95028 🚀
 
-### I am an undergraduate student at 🏫 Zhejiang University of Technology, deeply immersed in the fascinating intersection where AI meets Life Sciences, driving the frontiers of biomedical research forward. 🧬🤖
+### I am a graduate student at the Shanghai Institute of Materia Medica, passionately exploring the cutting-edge convergence of AI and Life Sciences to advance biomedical innovation. 🧬🤖
 
 Passionate about:
 
