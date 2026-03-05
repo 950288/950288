@@ -24,5 +24,5 @@ To infinity and beyond – together! 🌌🚀💫
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=950288&layout=compact&&langs_count=10&size_weight=0.5&count_weight=0.5&theme=dark&card_width=500px)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=950288&layout=compact&&langs_count=10&size_weight=0.5&count_weight=0.5&theme=dark&card_width=500px&hide=jupyter%20notebook)
 </div>
