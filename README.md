@@ -1,4 +1,4 @@
-### I am Wang jingtong, a graduate student at the Shanghai Institute of Materia Medica, passionately exploring the cutting-edge convergence of AI and Life Sciences to advance biomedical innovation. 🧬🤖
+## I am Wang jingtong, a graduate student at the Shanghai Institute of Materia Medica, passionately exploring the cutting-edge convergence of AI and Life Sciences to advance biomedical innovation. 🧬🤖
 
 Passionate about:
 
