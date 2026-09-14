@@ -1,24 +1,18 @@
-## I am Wang jingtong, Master's student at the Shanghai Institute of Materia Medica, working on AI-driven approaches for biomolecular representation and drug discovery. 🧬🤖
+## Hi, I'm Wang Jingtong 👋
 
-Passionate about:
+Master's student at the Shanghai Institute of Materia Medica, working on AI-driven biomolecular modeling and drug discovery.
 
-- 🤖 AI: Crafting the minds of the future, one algorithm at a time.
-- 🥼 Protein Design: Programmatically sculpting life's architecture with AI, designing proteins to heal, transform, and innovate.
-- 🌌 Interdisciplinary Tech: Blending fields to break boundaries and innovate for the cosmos.
+My research focuses on building unified computational approaches for understanding and designing biomolecular systems, spanning small molecules, proteins, and their interactions.
 
+I'm particularly interested in:
 
-## My quest? To harness these technologies to push the limits of science and 🎯 propel humanity to the stars! I'm all about embracing our future as a multi-planetary species. 🌍👉🚀🌟
+- 🧬 **Biomolecular Modeling** — unified 3D representations, molecular generation, protein–ligand interactions, and structure-based drug design.
+- 🤖 **Machine Learning for Science** — geometric deep learning, generative models, and scalable scientific AI.
+- 🛠️ **Scientific Software** — reliable, high-performance tools for cheminformatics, structural biology, and molecular visualization, with an emphasis on correctness and reproducibility.
 
-Join me on this adventure:
+I enjoy turning ideas into systems, and systems into tools people can actually use.
 
-- 💡 Share ideas: Let's brainstorm and build the future today!
-- 🛠️ Collaborate: Together we can achieve more than we ever could alone.
-- 🚀 Innovate: Let's push the boundaries and reach for the (next) stars!
-I'm a Sci-fi fans at heart, always ready to dive into the next big concept or the latest tech trend. Let's code our way to the cosmos and beyond! 🌟
-
-Drop by, say 👋, and let's make some cosmic magic happen!
-
-To infinity and beyond – together! 🌌🚀💫
+Somewhere between molecules, life, intelligence, and the cosmos, there is still a lot left to understand. 🌌
 
 <div align="center">
   
